@@ -69,7 +69,7 @@ function App() {
       {/* <SearchAutoComplete /> */}
 
       {/* ----------------------------------------- Tic Tak Toe */}
-      {/* <TicTacToe /> */}
+      <TicTacToe />
 
       {/* ----------------------------------------- Close modal on outside click */}
       {/* <UseOnclickOutsideTest /> */}
@@ -78,7 +78,7 @@ function App() {
       {/* <UseWindowResizeTest /> */}
 
       {/* ----------------------------------------- Scroll to top and bottom */}
-      <ScrollTopBotom />
+      {/* <ScrollTopBotom /> */}
     </div>
   );
 }
