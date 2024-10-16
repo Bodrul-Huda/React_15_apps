@@ -1,24 +1,24 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
-import Accordian from "./components/accordian";
-import RandomColor from "./components/random-color";
-import StarRating from "./components/star-rating";
-import ImageSlider from "./components/image-slider";
-import LoadMoreData from "./components/load-more-data";
-import TreeView from "./components/tree-view";
-import menus from "./components/tree-view/data";
-import QrCodeGenerator from "./components/qr-core-generator";
-import LightDarkMode from "./components/light-dark-mode";
-import ScrollIndicator from "./components/scroll-indicator";
-import TabTest from "./components/custom-tab/tab-test";
-import ModalTest from "./components/custom-modal/modal-test";
-import GitHubProfile from "./components/github-profile-finder";
-import SearchAutoComplete from "./components/auto-complete-search";
+// import Accordian from "./components/accordian";
+// import RandomColor from "./components/random-color";
+// import StarRating from "./components/star-rating";
+// import ImageSlider from "./components/image-slider";
+// import LoadMoreData from "./components/load-more-data";
+// import TreeView from "./components/tree-view";
+// import menus from "./components/tree-view/data";
+// import QrCodeGenerator from "./components/qr-core-generator";
+// import LightDarkMode from "./components/light-dark-mode";
+// import ScrollIndicator from "./components/scroll-indicator";
+// import TabTest from "./components/custom-tab/tab-test";
+// import ModalTest from "./components/custom-modal/modal-test";
+// import GitHubProfile from "./components/github-profile-finder";
+// import SearchAutoComplete from "./components/auto-complete-search";
 import TicTacToe from "./components/tic-tac-toe";
-import OutsideClick from "./components/use-outside-click";
-import UseOnclickOutsideTest from "./components/use-outside-click/test";
-import UseWindowResizeTest from "./components/resize-window/test";
-import ScrollTopBotom from "./components/scroll-top-bottom";
+// import OutsideClick from "./components/use-outside-click";
+// import UseOnclickOutsideTest from "./components/use-outside-click/test";
+// import UseWindowResizeTest from "./components/resize-window/test";
+// import ScrollTopBotom from "./components/scroll-top-bottom";
 
 function App() {
   return (
